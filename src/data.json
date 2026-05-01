@@ -14,6 +14,20 @@
     "cel": "301 754 78 18"
   },
   {
+    "nombre": "Carolina Navarro",
+    "refiere": "Alicia Jones",
+    "pic": "carolina_navarro.png",
+    "hv": "hv_carolina_navarro.pdf",
+    "cel": "xxx xxx xx xx"
+  },
+  {
+    "nombre": "Sharon Mendoza",
+    "refiere": "FJ Asesorías",
+    "pic": "sharon_mendoza.png",
+    "hv": "hv_sharon_mendoza.pdf",
+    "cel": "317 507 95 91"
+  },
+  {
     "nombre": "Danilo Manjarres",
     "refiere": "LuisFer Arevalo",
     "pic": "danilo_manjarres.png",
@@ -26,12 +40,5 @@
     "pic": "legal_y_loyal.png",
     "hv": "hv_legal_y_loyal_alliance.pdf",
     "cel": "300 750 32 16"
-  },
-  {
-    "nombre": "Sharon Mendoza",
-    "refiere": "FJ Asesorías",
-    "pic": "sharon_mendoza.png",
-    "hv": "hv_sharon_mendoza.pdf",
-    "cel": "317 507 95 91"
   }
 ]
