@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Lilian Romero",
+    "refiere": "LuisFer Arevalo",
+    "pic": "lilian_romero.png",
+    "hv": "hv_lilian_romero.pdf",
+    "cel": "320 754 97 74"
+  },
+  {
+    "nombre": "Betsabe Florez",
+    "refiere": "Elisa Oyaga",
+    "pic": "betsabe_florez.png",
+    "hv": "hv_betsabe_florez.pdf",
+    "cel": "301 754 78 18"
+  },
+  {
+    "nombre": "Danilo Manjarres",
+    "refiere": "LuisFer Arevalo",
+    "pic": "danilo_manjarres.png",
+    "hv": "hv_danilo_manjarres.pdf",
+    "cel": "301 646 33 29"
+  },
+  {
+    "nombre": "Legal y Loyal Alliance",
+    "refiere": "Germán Sánchez",
+    "pic": "legal_y_loyal.png",
+    "hv": "hv_legal_y_loyal_alliance.pdf",
+    "cel": "300 750 32 16"
+  },
+  {
+    "nombre": "Sharon Mendoza",
+    "refiere": "FJ Asesorías",
+    "pic": "sharon_mendoza.png",
+    "hv": "hv_sharon_mendoza.pdf",
+    "cel": "317 507 95 91"
+  }
+]
